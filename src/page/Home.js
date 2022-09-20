@@ -56,7 +56,7 @@ const Home = () => {
                                             ? 'green'
                                             : quiz == selectOption
                                                 ? 'red'
-                                                : 'red'
+                                                : 'gray'
                                     }
                                 />
                             )
