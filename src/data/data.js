@@ -1,34 +1,62 @@
 const data = [
     {
-        question: "What’s the biggest planet in our solar system?",
-        options: ["Jupiter", "Saturn", "Neptune", "Mercury"],
-        correct_option: "Jupiter"
-    },
-    {
-        question: "What attraction in India is one of the famus in the world?",
-        options: ["Chand Minar", "Taj Mahal", "Stadium"],
-        correct_option: "Taj Mahal"
-    },
-    {
-        question: "What land animal can open its mouth the widest?",
-        options: ["Alligator", "Crocodile", "Baboon", "Hippo"],
-        correct_option: "Hippo"
-    },
-    {
-        question: "What is the largest animal on Earth?",
-        options: ["The African elephant", "The blue whale", "The sperm whale", "The giant squid"],
-        correct_option: "The blue whale"
-    },
-    {
-        question: "What is the only flying mammal?",
-        options: ["The bat", "The flying squirrel", "The bald eagle", "The colugo"],
-        correct_option: "The bat"
-    },
-    {
         question: "বাংলাদেশের রাজধানী কোথায় ? ",
         options: ["ঢাকা", "খুলনা", "কুমিল্লা", "যশোর"],
         correct_option: "ঢাকা"
-    }
+    },
+    {
+        question: "কোনোদিন কর্মহীন পূর্ণ অবকাশে বসন্ত বাতাসে অতীতের তীর হাতে যে রাত্রে বহীবে দীর্ঘশ্বাস, ঝরা বকুলের কান্না ব্যথিবে আকাশ। উপরিউক্ত চরণের রচয়িতা কে ? ",
+        options: ["শামসুর রাহমান", "রবীন্দ্রনাথ ঠাকুর", "কাজী নজরুল ইসলাম", "কোনটিই নয়"],
+        correct_option: "ঢাকোনটিই নয়"
+    },
+    {
+        question: "কোন বাক্যে ক্রিয়া পদ উহ্য রয়েছে? ",
+        options: ["তিনি সাঁতার কাটছেন", "ইনি আমার ভাই", "কবির বই পড়ছে", "আমি লিখছি"],
+        correct_option: "ইনি আমার ভাই"
+    },
+    {
+        question: "ক্রিয়া সম্পাদনের যন্ত্র,উপকরণ বা সহায়ককে কি বলে? ",
+        options: ["অপাদান কারক", "অপাদান কারক", "কর্মকারক", "অধিকরন কারক"],
+        correct_option: "কর্মকারক"
+    },
+    {
+        question: "‘মিথ্যাবাদী রাখাল’ কাব্যটির রচয়িতা কে? ",
+        options: ["সৈয়দ শামসুল হক", "মোহাম্মদ মনিরুজ্জামান", "আব্দুল মান্নান", "সৈয়দ আল মাহমুদ"],
+        correct_option: "সৈয়দ আল মাহমুদ"
+    },
+    {
+        question: "কবি গানের প্রথম কবি – ",
+        options: ["গোজলা পুট", "হরু ঠাকুর", "ভবানী ঘোষ", "নিতাই বৈরাগী"],
+        correct_option: "গোজলা পুট"
+    },
+    {
+        question: "বাঙ্গালা ভাষার ইতিবৃত্ত’ কে রচনা করেন? ",
+        options: ["সুনীতিকুমার চট্টোপাধ্যায়", "সুকুমার সেন", "মুহম্মদ শহীদুল্লাহ্‌", "মুহম্মদ এনামুল হক"],
+        correct_option: "মুহম্মদ শহীদুল্লাহ্‌"
+    },
+    {
+        question: "ভাষার ক্ষুদ্রতম একক কোন্টি? ",
+        options: ["বর্ণ", "শব্দ", "অক্ষর‌", "ধ্বনি"],
+        correct_option: "ধ্বনি‌"
+    },
+    {
+        question: "কোনটি তদ্ভব শব্দ ?",
+        options: ["চাঁদ", "সূর্য", "গগন", "নক্ষত্র"],
+        correct_option: "চাঁদ"
+    },
+    {
+        question: "ঘুম থেকে জেগে বৈশাখি ঝড়ে কুড়ায়েছি ঝড়া আম’ এই লাইনটির লেখক বা কবি কে?",
+        options: ["বঙ্কিমচন্দ্র চট্টোপাধ্যায়", "সানাউল হক", "বেগম সুফিয়া কামাল", "নক্ষসুফিয়া আহম্মেদত্র"],
+        correct_option: "বেগম সুফিয়া কামাল"
+    },
+    {
+        question: "কোন বানানটি শুদ্ধ?",
+        options: ["সূচিষ্মিতা", "সূচিস্মিতা সূ", "চীস্মিতা", "সুচিস্মিতা"],
+        correct_option: "সূচিস্মিতা সূ"
+    },
+
+
+
 ]
 
 
